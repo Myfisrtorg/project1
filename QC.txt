@@ -1,6 +1,10 @@
 abdhdfhfuh
 
 
+<<<<<<< HEAD
 Anchal added this line.
+=======
+bvnhkvjh-- i added here.
+>>>>>>> ff45a37566ce23a80bdef617ceca5e5ec4db51ce
 
 hhhhhhhhhhhhhh
